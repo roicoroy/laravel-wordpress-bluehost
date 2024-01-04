@@ -396,3 +396,6 @@
 [04-Jan-2024 09:06:57 America/Boise] PHP Warning:  Constant DB_NAME already defined in /home4/faezramy/public_html/wordpress/wp-config.php on line 25
 [04-Jan-2024 09:16:57 America/Boise] PHP Warning:  Constant DB_NAME already defined in /home4/faezramy/public_html/wordpress/wp-config.php on line 25
 [04-Jan-2024 10:31:57 America/Boise] PHP Warning:  Constant DB_NAME already defined in /home4/faezramy/public_html/wordpress/wp-config.php on line 25
+[04-Jan-2024 10:36:57 America/Boise] PHP Warning:  Constant DB_NAME already defined in /home4/faezramy/public_html/wordpress/wp-config.php on line 25
+[04-Jan-2024 10:55:38 America/Boise] PHP Warning:  Constant DB_NAME already defined in /home4/faezramy/public_html/wordpress/wp-config.php on line 25
+[04-Jan-2024 18:07:06 UTC] Bluehost WP Plugin: Failed to fetch token: {"error":"Forbidden","http_status":403,"_status_code":403,"_response":"{\"error\":\"Forbidden\",\"http_status\":403}"}
